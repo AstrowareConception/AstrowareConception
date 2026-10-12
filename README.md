@@ -53,7 +53,7 @@ Je développe et fais évoluer plusieurs projets au croisement du logiciel, de l
 | [**FormaWare**](https://formaware.fr/) | Un outil métier pour l’activité des formateurs : missions, sessions et gestion administrative. **Conception et développement.** |
 | [**IronSkill Academy**](https://ironskill.academy/) | Un projet de formation tech qui relie apprentissage, pratique et progression. **Développement et conception pédagogique.** |
 | [**Crossroads Studio**](https://www.crossroads-studio.fr/) | Un environnement de création de récits interactifs : scénarios à embranchements, organisation visuelle et assistance à l’écriture. **Conception et développement.** |
-| **COMPAS** | Relier missions, livrables, preuves et compétences pour accompagner la progression. **Conception, développement et encadrement de stagiaires.** |
+| [**COMPAS**](https://app.compas.astroware-conception.com/) | Relier missions, livrables, preuves et compétences pour accompagner la progression. **Conception, développement et encadrement de stagiaires.** |
 | [**Hack-me.fr**](https://hack-me.fr/) | Un projet pédagogique de sensibilisation à la sécurité applicative par la pratique. **Développement et pédagogie.** |
 
 ## Concevoir, construire, transmettre
